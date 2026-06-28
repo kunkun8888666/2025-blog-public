@@ -51,7 +51,6 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
 				/>
 
 				<Layout>{children}</Layout>
-				<script src="https://pl30113987.effectivecpmnetwork.com/85/0d/ae/850daed5bb6622f87147d5d173fc38d2.js"></script>
 			</body>
 		</html>
 	)
