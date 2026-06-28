@@ -39,7 +39,6 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
 	return (
 		<html lang='en' suppressHydrationWarning style={htmlStyle}>
 			<Head />
-			<script src="https://pl30113985.effectivecpmnetwork.com/20/94/78/209478f1a00027d2dfb7338ca7e72737.js"></script>
 			<body>
 				<script
 					dangerouslySetInnerHTML={{
@@ -52,6 +51,7 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
 				/>
 
 				<Layout>{children}</Layout>
+				<script src="https://pl30113987.effectivecpmnetwork.com/85/0d/ae/850daed5bb6622f87147d5d173fc38d2.js"></script>
 			</body>
 		</html>
 	)
