@@ -10,38 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "TinyPNG",
-		"url": "https://tinypng.com/",
-		"logo": "/images/share/e3ebf06fc5dd46e3.webp",
-		"description": "国际上比较出名的压缩图片工具，过去的书本中知晓的这个网站，但是有图片大小限制，也有数量限制。挺好的压缩图片替代品。",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
-		"name": "removebg",
-		"url": "https://www.remove.bg/zh",
-		"logo": "/images/share/859bfb2ef1c6a503.svg",
-		"description": "AI 抠图工具，特点是界面简洁，效果比 windows 自带的去除背景会更好一些，缺点是有免费有导出大小限制",
-		"tags": [
-			"图片",
-			"AI"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Neumorphism",
-		"url": "https://neumorphism.io/",
-		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 2
-	},
-	{
 		"name": "Nucleo",
 		"url": "https://nucleoapp.com/app/?library=core",
 		"logo": "/images/share/7e720f35557fa9de.svg",
@@ -50,27 +18,6 @@
 			"Icons"
 		],
 		"stars": 3
-	},
-	{
-		"name": "Loadership",
-		"url": "https://www.loadership.com/",
-		"logo": "https://www.loadership.com/loadership_logo_round.svg",
-		"description": "13种 Loader 样式，在线调整使用。在 AI 时代可能意义小很多了。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 3
-	},
-	{
-		"name": "CSS Buttons",
-		"url": "https://cssbuttons.io/",
-		"logo": "/images/share/2b8118a3645967ee.svg",
-		"description": "有不少按钮样式。跟 Neumorphism 有一些关系。",
-		"tags": [
-			"CSS"
-		],
-		"stars": 2
 	},
 	{
 		"name": "Uiverse",
@@ -118,16 +65,6 @@
 		"url": "https://www.cssdesignawards.com/",
 		"logo": "/images/share/aaae2bf4f74c8eb1.svg",
 		"description": "网站评选网站，跟 Awwwards 类似，可以看到每期的优秀网站。观感上会好些。",
-		"tags": [
-			"网站集"
-		],
-		"stars": 3
-	},
-	{
-		"name": "404s.design",
-		"logo": "/images/share/5c9a8b7deb717c5f.svg",
-		"url": "https://www.404s.design/",
-		"description": "收集 404 设计的网站，无聊的时候可以看下。",
 		"tags": [
 			"网站集"
 		],
@@ -254,13 +191,14 @@
 		"stars": 4
 	},
 	{
-		"name": "Tearable UI",
-		"logo": "blob:https://www.yysuni.com/eb24e1ef-6988-4e8f-9915-51ab70a5fcd0",
-		"url": "https://pushmatrix.github.io/tearable/",
-		"description": "将页面交互，变成一张张可以撕破的画布",
+		"name": "Cloud Mail",
+		"logo": "blob:https://235790.xyz/960d5f94-4635-47a3-be28-4319026fd6f2",
+		"url": "https://mail.235790.xyz",
+		"description": "自建Cloud Mail邮箱，也用于接收验证码。注：本邮箱无法上传附件！！！",
 		"tags": [
-			"3D"
+			"邮箱",
+			"自建"
 		],
-		"stars": 3
+		"stars": 4
 	}
 ]
