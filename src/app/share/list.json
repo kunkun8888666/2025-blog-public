@@ -9,5 +9,16 @@
 			"自建"
 		],
 		"stars": 4
+	},
+	{
+		"name": "网址导航",
+		"logo": "https://tools.235790.xyz/assets/images/favicon.png",
+		"url": "https://tools.235790.xyz/",
+		"description": "一个网址导航，涵盖许多常用网站",
+		"tags": [
+			"自建",
+			"网站导航"
+		],
+		"stars": 3
 	}
 ]
