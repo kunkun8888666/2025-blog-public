@@ -89,5 +89,15 @@
 		"tags": [
 			"教程"
 		]
+	},
+	{
+		"name": "网址导航",
+		"year": 2026,
+		"image": "https://tools.235790.xyz/assets/images/favicon.png",
+		"url": "https://tools.235790.xyz/",
+		"description": "一个网址导航，包含许多实用网页",
+		"tags": [
+			"html"
+		]
 	}
 ]
